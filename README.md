@@ -1,3 +1,3 @@
 # Calendar
 
-![Превью](https://github.com/LiiChar/-alendar/tree/main/public/assets/preview/preview-1.png)
+![Превью](https://github.com/LiiChar/-alendar/blob/main/public/preview/preview-1.png)
