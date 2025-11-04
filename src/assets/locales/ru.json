@@ -1,0 +1,36 @@
+{
+	"calendar": {
+		"month": {
+			"january": "Январь",
+			"february": "Февраль",
+			"march": "Март",
+			"april": "Апрель",
+			"may": "Май",
+			"june": "Июнь",
+			"july": "Июль",
+			"august": "Август",
+			"september": "Сентябрь",
+			"october": "Октябрь",
+			"november": "Ноябрь",
+			"december": "Декабрь"
+		},
+		"weekday": {
+			"monday": "Понедельник",
+			"tuesday": "Вторник",
+			"wednesday": "Среда",
+			"thursday": "Четверг",
+			"friday": "Пятница",
+			"saturday": "Суббота",
+			"sunday": "Воскресенье"
+		},
+		"weekday_short": {
+			"monday": "Пн",
+			"tuesday": "Вт",
+			"wednesday": "Ср",
+			"thursday": "Чт",
+			"friday": "Пт",
+			"saturday": "Сб",
+			"sunday": "Вс"
+		}
+	}
+}
