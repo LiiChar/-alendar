@@ -14,7 +14,7 @@ type Join<K, P> = K extends string | number
 
 type Paths<T, D extends number = 5> = [D] extends [never]
 	? never
-	: T extends (infer U)[]
+	: T extends unknown[]
 	? never
 	: T extends Record<string, any>
 	? {

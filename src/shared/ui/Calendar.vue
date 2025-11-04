@@ -1,6 +1,6 @@
 <script setup lang="ts">
 import { computed, ref } from 'vue'
-import { addMonths, eachDayOfInterval, format, getDate, setDate, startOfMonth, endOfMonth, startOfWeek, endOfWeek, isSameMonth } from 'date-fns';
+import { addMonths, eachDayOfInterval, format, getDate, startOfMonth, endOfMonth, startOfWeek, endOfWeek, isSameMonth } from 'date-fns';
 import { useI18n } from '../composables/useI18n';
 import {ru, enUS} from "date-fns/locale";
 import { Icon } from '@iconify/vue';
